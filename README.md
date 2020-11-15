@@ -1,2 +1,4 @@
 # projectG1
-first time to try
+
+## Editing the file
+Its a markdown file in this repository.
